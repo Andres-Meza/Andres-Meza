@@ -8,7 +8,7 @@
 
 <div>
 
-  <a href="http://www.github.com/Andres-Meza"><img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Andres-Meza&show_icons=true&hide=&count_private=true&title_color=FF5B00&text_color=73777B&icon_color=B4FF9F&bg_color=0D1117&hide_border=true&show_icons=true" alt="AngelaDiaz20's GitHub stats" /></a>
+  <a href="http://www.github.com/Andres-Meza"><img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Andres-Meza&show_icons=true&hide=&count_private=true&title_color=FF5B00&text_color=73777B&icon_color=B4FF9F&bg_color=0D1117&hide_border=true&show_icons=true" alt="Andres Meza's GitHub stats" /></a>
   <a href="http://www.github.com/Andres-Meza"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Meza&stroke=B4FF9F&background=0D1117&ring=FF5F00&fire=FF5F00&currStreakNum=B4FF9F&currStreakLabel=3CCF4E&sideNums=B4FF9F&sideLabels=73777B&dates=73777B&hide_border=true" /></a>
   
  </div>
