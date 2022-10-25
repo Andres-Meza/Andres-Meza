@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andresmeza
-- 👨‍💻 All of my projects are available at https://github.com/andresmeza1
+- 👨‍💻 All of my projects are available at https://github.com/Andres-Meza
 - 🌱 I’m currently learning python in soloLearn
 - 📫 How to reach me andresmezad2519@gmail.com
 
